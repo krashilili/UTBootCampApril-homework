@@ -1,3 +1,3 @@
 # UTBootCampApril-homework
 
-Homework uploading
+This repository is used for uploading assignments in UTBootCamp.
